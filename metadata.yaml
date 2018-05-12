@@ -1,0 +1,33 @@
+_repo: The-Voyage-of-the-Deutschland_45922
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Ellis, Vivien
+    gutenberg_agent_id: '43452'
+    url: http://www.gutenberg.org/2009/agents/43452
+covers:
+- cover_type: archival
+  image_path: 45922-h/images/cover.jpg
+creator:
+  author:
+    agent_name: König, Paul
+    alias: Konig, Paul
+    birthdate: 1867
+    gutenberg_agent_id: '43523'
+    url: http://www.gutenberg.org/2009/agents/43523
+description: ''
+gutenberg_issued: '2014-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45922'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Blockades'
+- !lcsh 'König, Paul, 1867-'
+- !lcsh 'Deutschland (Submarine)'
+- !lcc 'D501'
+title: The Voyage of the "Deutschland"
+url: http://www.gutenberg.org/ebooks/45922
